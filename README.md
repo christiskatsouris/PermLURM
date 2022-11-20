@@ -1,6 +1,6 @@
 # PermLURM
 
-##  Permutation-Based Testing in Local-to-Unity Regression Models 
+##  Permutation-Based Hypothesus Testing in Local-to-Unity Regression Models 
 
 ### Description
 
