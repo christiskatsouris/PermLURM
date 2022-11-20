@@ -30,7 +30,7 @@ library("PermLURM")
 
 # Key References:
 
-$\textbf{[1]}$ Katsouris, C. (2022g). "A permutation-based approach for Hypothesis Testing in Nonstationary Autoregressive Regressions". University of Exeter. Working paper. 
+$\textbf{[1]}$ Katsouris, C. (2022e). "A permutation-based approach for Hypothesis Testing in Nonstationary Autoregressive Regressions". University of Exeter. Working paper. 
 
 $\textbf{[2]}$ Katsouris, C. (2021e). "Bootstrapping Nonstationary Autoregressive Processes in Predictive Regression". University of Southampton. Working paper.
 
