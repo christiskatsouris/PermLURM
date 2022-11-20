@@ -1,8 +1,32 @@
-# Permutation-Based Testing in Local-to-Unity Regression Models 
+# PermLURM
 
-# Description
+##  Permutation-Based Testing in Local-to-Unity Regression Models 
+
+### Description
 
 
+### Methodology  
+
+
+## Installation (under development) 
+
+The R package ‘PermLURM’ will be able to be installed from Github.
+
+## Usage 
+
+```R
+
+# After development the package will be able to be installed using
+install.packages("PermLURM")
+library("PermLURM")
+
+```
+
+## Notes:
+
+1.
+
+2.
 
 # Key References:
 
@@ -33,9 +57,3 @@ $\textbf{[12]}$ Carlstein, E., Do, K. A., Hall, P., Hesterberg, T., & Künsch, H
 $\textbf{[13]}$ Lahiri, S. N. (1999). "Theoretical comparisons of block bootstrap methods". Annals of Statistics, 386-404.
 
 $\textbf{[14]}$ Politis, D. N., & Romano, J. P. (1994). "The stationary bootstrap". Journal of the American Statistical association, 89(428), 1303-1313.
-
-
-
-
-
-
