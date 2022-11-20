@@ -48,12 +48,14 @@ $\textbf{[8]}$ Kostakis, A., Magdalinos, T., & Stamatogiannis, M. P. (2015). "Ro
 
 $\textbf{[9]}$ Shao, X. (2010). "The dependent wild bootstrap". Journal of the American Statistical Association, 105(489), 218-235.
 
-$\textbf{[10]}$ Andrews, D. W. (2004). "The block–block bootstrap: improved asymptotic refinements". Econometrica, 72(3), 673-700.
+$\textbf{[10]}$ Jansson, M., & Moreira, M. J. (2006). Optimal inference in regression models with nearly integrated regressors. Econometrica, 74(3), 681-714.
 
-$\textbf{[11]}$ Paparoditis, E., & Politis, D. N. (2003). "Residual‐based block bootstrap for unit root testing". Econometrica, 71(3), 813-855.
+$\textbf{[11]}$ Andrews, D. W. (2004). "The block–block bootstrap: improved asymptotic refinements". Econometrica, 72(3), 673-700.
 
-$\textbf{[12]}$ Carlstein, E., Do, K. A., Hall, P., Hesterberg, T., & Künsch, H. R. (1998). "Matched-block bootstrap for dependent data". Bernoulli, 305-328.
+$\textbf{[12]}$ Paparoditis, E., & Politis, D. N. (2003). "Residual‐based block bootstrap for unit root testing". Econometrica, 71(3), 813-855.
 
-$\textbf{[13]}$ Lahiri, S. N. (1999). "Theoretical comparisons of block bootstrap methods". Annals of Statistics, 386-404.
+$\textbf{[13]}$ Carlstein, E., Do, K. A., Hall, P., Hesterberg, T., & Künsch, H. R. (1998). "Matched-block bootstrap for dependent data". Bernoulli, 305-328.
 
-$\textbf{[14]}$ Politis, D. N., & Romano, J. P. (1994). "The stationary bootstrap". Journal of the American Statistical association, 89(428), 1303-1313.
+$\textbf{[14]}$ Lahiri, S. N. (1999). "Theoretical comparisons of block bootstrap methods". Annals of Statistics, 386-404.
+
+$\textbf{[15]}$ Politis, D. N., & Romano, J. P. (1994). "The stationary bootstrap". Journal of the American Statistical association, 89(428), 1303-1313.
