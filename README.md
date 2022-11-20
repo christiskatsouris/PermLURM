@@ -10,7 +10,7 @@
 
 ## Installation (under development) 
 
-The R package ‘PermLURM’ will be able to be installed from Github.
+The R package [‘PermLURM’](https://github.com/christiskatsouris/PermLURM) will be able to be installed from Github and CRAN.
 
 ## Usage 
 
