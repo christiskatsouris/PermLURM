@@ -8,19 +8,19 @@
 
 $\textbf{[1]}$ Chan, K. W. (2022). "Optimal difference-based variance estimators in time series: A general framework". The Annals of Statistics, 50(3), 1376-1400.
 
-$\textbf{[2]}$ Austern, M., & Orbanz, P. (2022). Limit theorems for distributions invariant under groups of transformations. The Annals of Statistics, 50(4), 1960-1991.
+$\textbf{[2]}$ Austern, M., & Orbanz, P. (2022). "Limit theorems for distributions invariant under groups of transformations". The Annals of Statistics, 50(4), 1960-1991.
 
-$\textbf{[3]}$ Demetrescu, M., Georgiev, I., Rodrigues, P. M., & Taylor, A. R. (2022). Extensions to IVX methods of inference for return predictability. Journal of Econometrics. 
+$\textbf{[3]}$ Demetrescu, M., Georgiev, I., Rodrigues, P. M., & Taylor, A. R. (2022). "Extensions to IVX methods of inference for return predictability". Journal of Econometrics. 
 
 $\textbf{[4]}$ Katsouris, C. (2021e). "Bootstrapping Nonstationary Autoregressive Processes in Predictive Regression". University of Southampton. Working paper.
 
 $\textbf{[5]}$ Katsouris, C. (2020). "Treatment effect validation via a permutation test in Stata". University of Southampton. Working paper.
 
-$\textbf{[6]}$ Cavaliere, G., & Georgiev, I. (2020). Inference under random limit bootstrap measures. Econometrica, 88(6), 2547-2574.
+$\textbf{[6]}$ Cavaliere, G., & Georgiev, I. (2020). "Inference under random limit bootstrap measures". Econometrica, 88(6), 2547-2574.
 
 $\textbf{[7]}$ Kojevnikov, D. (2021). "The bootstrap for network dependent processes". arXiv preprint arXiv:2101.12312.
 
-$\textbf{[8]}$ Kostakis, A., Magdalinos, T., & Stamatogiannis, M. P. (2015). Robust econometric inference for stock return predictability. The Review of Financial Studies, 28(5), 1506-1553.
+$\textbf{[8]}$ Kostakis, A., Magdalinos, T., & Stamatogiannis, M. P. (2015). "Robust econometric inference for stock return predictability". The Review of Financial Studies, 28(5), 1506-1553.
 
 $\textbf{[9]}$ Shao, X. (2010). "The dependent wild bootstrap". Journal of the American Statistical Association, 105(489), 218-235.
 
