@@ -30,15 +30,15 @@ library("PermLURM")
 
 # Key References:
 
-$\textbf{[1]}$ Chan, K. W. (2022). "Optimal difference-based variance estimators in time series: A general framework". The Annals of Statistics, 50(3), 1376-1400.
+$\textbf{[1]}$ Katsouris, C. (2021e). "Bootstrapping Nonstationary Autoregressive Processes in Predictive Regression". University of Southampton. Working paper.
 
-$\textbf{[2]}$ Austern, M., & Orbanz, P. (2022). "Limit theorems for distributions invariant under groups of transformations". The Annals of Statistics, 50(4), 1960-1991.
+$\textbf{[2]}$ Katsouris, C. (2020). "Treatment effect validation via a permutation test in Stata". University of Southampton. Working paper.
 
-$\textbf{[3]}$ Demetrescu, M., Georgiev, I., Rodrigues, P. M., & Taylor, A. R. (2022). "Extensions to IVX methods of inference for return predictability". Journal of Econometrics. 
+$\textbf{[3]}$ Chan, K. W. (2022). "Optimal difference-based variance estimators in time series: A general framework". The Annals of Statistics, 50(3), 1376-1400.
 
-$\textbf{[4]}$ Katsouris, C. (2021e). "Bootstrapping Nonstationary Autoregressive Processes in Predictive Regression". University of Southampton. Working paper.
+$\textbf{[4]}$ Austern, M., & Orbanz, P. (2022). "Limit theorems for distributions invariant under groups of transformations". The Annals of Statistics, 50(4), 1960-1991.
 
-$\textbf{[5]}$ Katsouris, C. (2020). "Treatment effect validation via a permutation test in Stata". University of Southampton. Working paper.
+$\textbf{[5]}$ Demetrescu, M., Georgiev, I., Rodrigues, P. M., & Taylor, A. R. (2022). "Extensions to IVX methods of inference for return predictability". Journal of Econometrics. 
 
 $\textbf{[6]}$ Cavaliere, G., & Georgiev, I. (2020). "Inference under random limit bootstrap measures". Econometrica, 88(6), 2547-2574.
 
