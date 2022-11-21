@@ -82,8 +82,12 @@ $\textbf{[13]}$ Andrews, D. W. (2004). "The block–block bootstrap: improved as
 
 $\textbf{[14]}$ Paparoditis, E., & Politis, D. N. (2003). "Residual‐based block bootstrap for unit root testing". Econometrica, 71(3), 813-855.
 
-$\textbf{[15]}$ Carlstein, E., Do, K. A., Hall, P., Hesterberg, T., & Künsch, H. R. (1998). "Matched-block bootstrap for dependent data". Bernoulli, 305-328.
+$\textbf{[15]}$ Penrose, M. D., & Yukich, J. E. (2003). Weak laws of large numbers in geometric probability. The Annals of Applied Probability, 13(1), 277-303.
 
-$\textbf{[16]}$ Lahiri, S. N. (1999). "Theoretical comparisons of block bootstrap methods". Annals of Statistics, 386-404.
+$\textbf{[16]}$ Carlstein, E., Do, K. A., Hall, P., Hesterberg, T., & Künsch, H. R. (1998). "Matched-block bootstrap for dependent data". Bernoulli, 305-328.
 
-$\textbf{[17]}$ Politis, D. N., & Romano, J. P. (1994). "The stationary bootstrap". Journal of the American Statistical association, 89(428), 1303-1313.
+$\textbf{[17]}$ Lahiri, S. N. (1999). "Theoretical comparisons of block bootstrap methods". Annals of Statistics, 386-404.
+
+$\textbf{[18]}$ Politis, D. N., & Romano, J. P. (1994). "The stationary bootstrap". Journal of the American Statistical association, 89(428), 1303-1313.
+
+
