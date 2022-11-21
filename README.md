@@ -7,6 +7,26 @@
 The R package [‘PermLURM’](https://github.com/christiskatsouris/PermLURM) aims to implement a permutation-based approach for hypothesis testing for possibly  nonstationary autoregressive models and in general for local-to-unity regression models, including predictive regression models. In particular, this is a novel approach to existing methodologies such as the block-bootstrap based approach for unit root testing. However, the purpose of this research is to provide some evidence whether the proposed approach is a suitable alternative resampling method that ensures robust inference in these settings. 
 
 
+<p align="center">
+  
+<img src="https://github.com/christiskatsouris/PermLURM/blob/main/data/persistence.jpg" width="460"/>
+
+</p>  
+
+We consider the following persistence classes:
+   
+#### (P1). nearly stable processes: 
+
+$$\text{if} \ \ \left( \theta_n \right)_{ n \in \mathbb{N} } \ \ \text{is such that} \ \zeta = - \infty \ \ \text{and it holds that} \ \ \theta_n \to | \theta | < 1.$$
+    
+#### (P2). nearly unstable processes:   
+
+$$\text{if} \ \ \left( \theta_n \right)_{ n \in \mathbb{N} } \ \ \text{is such that} \ \ \zeta \equiv c \in \mathbb{R} \ \ \text{and it holds that} \ \ \theta_n \to \theta = 1.$$
+
+    
+#### (P3). nearly explosive processes:   
+
+$$\text{if} \ \ \left( \theta_n \right)_{ n \in \mathbb{N} } \ \ \text{is such that} \ \ \zeta = + \infty \ \ \text{and it holds that} \ \ \theta_n \to | \theta | > 1.$$
 
 ### Methodology  
 
