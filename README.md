@@ -47,7 +47,7 @@ library("PermLURM")
 
 ## Notes:
 
-1.
+1. This R package employs the novel IVX-P estimator proposed in the literature recently and aims to investigate the performance of the specific resampling method such as the permutation-based approach for robust statistical inference purposes. 
 
 2.
 
