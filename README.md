@@ -91,3 +91,18 @@ $\textbf{[17]}$ Lahiri, S. N. (1999). "Theoretical comparisons of block bootstra
 $\textbf{[18]}$ Politis, D. N., & Romano, J. P. (1994). "The stationary bootstrap". Journal of the American Statistical association, 89(428), 1303-1313.
 
 
+# Code of Coduct
+
+Please note that the ‘tailEstimates’ project will be released with a Contributor Code of Coduct (under construction). By contributing to this project, you agree to abide by its terms.
+
+# Acknowledgments
+
+The author greatfully acknowledges financial support from the [Department of Economics](http://business-school.exeter.ac.uk/about/departments/economics/) of the [Faculty of Environment, Science and Economy](https://www.exeter.ac.uk/departments/ese/) at the University of Exeter, United Kingdom. 
+
+Christis G. Katsouris is a Lecturer in Economics at the [University of Exeter Business School](http://business-school.exeter.ac.uk/). He is also a member of the [Time Series and Machine Learning Group](https://www.personal.soton.ac.uk/cz1y20/Reading_Group/mlts-group-2022.html) at the [School of Mathematical Sciences](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-mathematical-sciences) (Statistics Division) of the University of Southampton. 
+
+# Declarations
+
+The author (Christis G. Katsouris) declares no conflicts of interest.
+
+Notice that the academic research presented here is considered to be as open access to the academic and non-academic community. Therefore, we would appreciate it if appropriate acknolwedgement is given to statistical methodologies and econometric procedures developed by academic researchers and made available to the wider applied data scientist community.   
