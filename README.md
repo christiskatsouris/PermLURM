@@ -93,7 +93,7 @@ $\textbf{[18]}$ Politis, D. N., & Romano, J. P. (1994). "The stationary bootstra
 
 # Code of Coduct
 
-Please note that the ‘tailEstimates’ project will be released with a Contributor Code of Coduct (under construction). By contributing to this project, you agree to abide by its terms.
+Please note that the [‘PermLURM’](https://github.com/christiskatsouris/PermLURM) R project will be released with a Contributor Code of Coduct (under construction). By contributing to this project, you agree to abide by its terms.
 
 # Acknowledgments
 
