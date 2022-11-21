@@ -4,6 +4,9 @@
 
 ### Description
 
+The R package [‘PermLURM’](https://github.com/christiskatsouris/PermLURM) aims to implement a permutation-based approach for hypothesis testing for possibly  nonstationary autoregressive models and in general for local-to-unity regression models, including predictive regression models.
+
+
 
 ### Methodology  
 
