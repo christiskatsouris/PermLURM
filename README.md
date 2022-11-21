@@ -30,6 +30,7 @@ $$\text{if} \ \ \left( \theta_n \right)_{ n \in \mathbb{N} } \ \ \text{is such t
 
 ### Methodology  
 
+The main challenging aspect with the proposed resampling method especially under the presence of the nuisance parameter of persistence is to accommodate the particular special dependence structure for the statistical problem of interest. 
 
 ## Installation (under development) 
 
