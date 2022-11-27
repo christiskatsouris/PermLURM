@@ -50,7 +50,7 @@ library("PermLURM")
 
 1. This R package employs the novel IVX-P estimator proposed in the literature recently and aims to investigate the performance of the specific resampling method such as the permutation-based approach for robust statistical inference purposes in comparison to conventional method as well as the bootstrap-based approach. 
 
-2. A second important aspect related to the permutation-based approach for hypothesis testing in possibly nonstationary autoregressive models such as the nonstationary predictive regression, is the estimation of the long-run variance which builds-up in the statistic under the null hypothesis. 
+2. A second important aspect related to the permutation-based approach for hypothesis testing in possibly nonstationary autoregressive models such as the nonstationary predictive regression, is the estimation of the long-run variance which builds-up in the statistic under the null hypothesis. However, the self-normalized version of test statistics with fixed b asymptotics, where b is the bandwidth as a fraction of the sample size, allows to improve the size properties with some sacrificy on the power performance of the tests. 
 
 # Key References:
 
