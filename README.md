@@ -104,27 +104,29 @@ $\textbf{[11]}$ Kostakis, A., Magdalinos, T., & Stamatogiannis, M. P. (2015). "R
 
 $\textbf{[12]}$ Shao, X. (2010). "The dependent wild bootstrap". Journal of the American Statistical Association, 105(489), 218-235.
 
-$\textbf{[13]}$ Jansson, M., & Moreira, M. J. (2006). Optimal inference in regression models with nearly integrated regressors. Econometrica, 74(3), 681-714.
+$\textbf{[13]}$ Phillips, P. C., & Magdalinos, T. (2007). Limit theory for moderate deviations from a unit root. Journal of Econometrics, 136(1), 115-130.
 
-$\textbf{[14]}$ Andrews, D. W. (2004). "The block–block bootstrap: improved asymptotic refinements". Econometrica, 72(3), 673-700.
+$\textbf{[14]}$ Jansson, M., & Moreira, M. J. (2006). Optimal inference in regression models with nearly integrated regressors. Econometrica, 74(3), 681-714.
 
-$\textbf{[15]}$  Paparoditis, E., & Politis, D. N. (2005). Bootstrapping unit root tests for autoregressive time series. Journal of the American Statistical Association, 100(470), 545-553.
+$\textbf{[15]}$ Andrews, D. W. (2004). "The block–block bootstrap: improved asymptotic refinements". Econometrica, 72(3), 673-700.
 
-$\textbf{[16]}$ Paparoditis, E., & Politis, D. N. (2003). "Residual‐based block bootstrap for unit root testing". Econometrica, 71(3), 813-855.
+$\textbf{[16]}$  Paparoditis, E., & Politis, D. N. (2005). Bootstrapping unit root tests for autoregressive time series. Journal of the American Statistical Association, 100(470), 545-553.
 
-$\textbf{[17]}$ Gonçalves, S., & Kilian, L. (2004). Bootstrapping autoregressions with conditional heteroskedasticity of unknown form. Journal of econometrics, 123(1), 89-120.
+$\textbf{[17]}$ Paparoditis, E., & Politis, D. N. (2003). "Residual‐based block bootstrap for unit root testing". Econometrica, 71(3), 813-855.
 
-$\textbf{[18]}$ Gonçalves, S., & White, H. (2002). The bootstrap of the mean for dependent heterogeneous arrays. Econometric Theory, 18(6), 1367-1384.
+$\textbf{[18]}$ Gonçalves, S., & Kilian, L. (2004). Bootstrapping autoregressions with conditional heteroskedasticity of unknown form. Journal of econometrics, 123(1), 89-120.
 
-$\textbf{[19]}$ Penrose, M. D., & Yukich, J. E. (2003). Weak laws of large numbers in geometric probability. The Annals of Applied Probability, 13(1), 277-303.
+$\textbf{[19]}$ Gonçalves, S., & White, H. (2002). The bootstrap of the mean for dependent heterogeneous arrays. Econometric Theory, 18(6), 1367-1384.
 
-$\textbf{[20]}$ Carlstein, E., Do, K. A., Hall, P., Hesterberg, T., & Künsch, H. R. (1998). "Matched-block bootstrap for dependent data". Bernoulli, 305-328.
+$\textbf{[20]}$ Penrose, M. D., & Yukich, J. E. (2003). Weak laws of large numbers in geometric probability. The Annals of Applied Probability, 13(1), 277-303.
 
-$\textbf{[21]}$ Lahiri, S. N. (1999). "Theoretical comparisons of block bootstrap methods". Annals of Statistics, 386-404.
+$\textbf{[21]}$ Carlstein, E., Do, K. A., Hall, P., Hesterberg, T., & Künsch, H. R. (1998). "Matched-block bootstrap for dependent data". Bernoulli, 305-328.
 
-$\textbf{[22]}$  Elliott, G., Rothenberg, T.J., and Stock, J.H. (1996). Efficient tests for an autoregressive unit root. Econometrica, 64(4), 813-836.
+$\textbf{[22]}$ Lahiri, S. N. (1999). "Theoretical comparisons of block bootstrap methods". Annals of Statistics, 386-404.
 
-$\textbf{[23]}$ Politis, D. N., & Romano, J. P. (1994). "The stationary bootstrap". Journal of the American Statistical association, 89(428), 1303-1313.
+$\textbf{[23]}$  Elliott, G., Rothenberg, T.J., and Stock, J.H. (1996). Efficient tests for an autoregressive unit root. Econometrica, 64(4), 813-836.
+
+$\textbf{[24]}$ Politis, D. N., & Romano, J. P. (1994). "The stationary bootstrap". Journal of the American Statistical association, 89(428), 1303-1313.
 
 
 # Code of Coduct
