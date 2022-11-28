@@ -54,7 +54,7 @@ $$y_t = \beta_n y_{t-1} + u_t, \ \ \ t =  1,..., n .$$
 
 where
 
-$$ \beta_n = \left( 1 + \frac{ c }{ n^{\alpha} } \right)$$
+$$ \beta_n = \left( 1 + \frac{ c }{ n^{\alpha} } \right), \alpha = 1 \ \text{or} \ \alpha \in (0,1), c \in \mathbb{R}.$$
 
 ```R
 
