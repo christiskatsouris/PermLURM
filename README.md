@@ -102,7 +102,7 @@ $\textbf{[21]}$ Lahiri, S. N. (1999). "Theoretical comparisons of block bootstra
 
 $\textbf{[22]}$  Elliott, G., Rothenberg, T.J., and Stock, J.H. (1996). Efficient tests for an autoregressive unit root. Econometrica, 64(4), 813-836.
 
-$\textbf{[21]}$ Politis, D. N., & Romano, J. P. (1994). "The stationary bootstrap". Journal of the American Statistical association, 89(428), 1303-1313.
+$\textbf{[23]}$ Politis, D. N., & Romano, J. P. (1994). "The stationary bootstrap". Journal of the American Statistical association, 89(428), 1303-1313.
 
 
 # Code of Coduct
