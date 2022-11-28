@@ -83,6 +83,8 @@ where
 
 $$\ \ \lambda = 1 \ \text{or} \ \lambda \in (0,1) \ \ \text{and} \ \ c \in \mathbb{R}.$$
 
+## Algorithm 2:
+
 ```R
 
 
