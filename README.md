@@ -50,7 +50,7 @@ library("PermLURM")
 
 ### Remarks:
 
-Notice that permutation testing is a resampling methodology based on sampling without replacement which means that time series observations in each block have no duplicates. However, a crucial assumption to ensure that main statistical properties are not violated is the condition of exchangeable arrays; which is also the main challenging aspect when considering implementing a permutation-based testing approach to possibly nonstationary time series regression models.  
+Notice that permutation testing is a resampling methodology based on sampling without replacement which means that time series observations in each block have no duplicates. However, a crucial assumption to ensure that main statistical properties are not violated, is the condition of exchangeable arrays; which is also the main challenging aspect when considering implementing a permutation-based testing approach to possibly nonstationary time series regression models.  
 
 
 Consider the possibly nonstationary autoregressive model   
