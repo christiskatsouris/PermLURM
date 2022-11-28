@@ -61,6 +61,11 @@ where
 
 $$ \beta_n = \left( 1 + \frac{ c }{ n^{\lambda} } \right), \ \ \lambda = 1 \ \text{or} \ \lambda \in (0,1) \ \ \text{and} \ \ c \in \mathbb{R}.$$
 
+## Algorithm 1:
+
+
+
+
 ```R
 
 
