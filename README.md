@@ -46,8 +46,11 @@ library("PermLURM")
 
 ```
 
-## Univariate Bootstrap Unit Root Tests
+## Univariate Permutation-Based Unit Root Tests
 
+Consider the possibly nonstationary autoregressive time series regression model 
+
+$$y_t = \beta_n y_{t-1} + u_t, \ \ \ t = \left\{ 1,..., n \right\}.$$
 
 
 
