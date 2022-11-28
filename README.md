@@ -48,7 +48,7 @@ library("PermLURM")
 
 ## Univariate Permutation-Based Unit Root Testing
 
-Consider the possibly nonstationary autoregressive time series regression  
+Consider the possibly nonstationary autoregressive model   
 
 $$y_t = \beta_n y_{t-1} + u_t, \ \ \ t =  1,..., n .$$
 
