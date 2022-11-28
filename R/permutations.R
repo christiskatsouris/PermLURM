@@ -5,7 +5,7 @@
 ###########################################################################
 
 
-' Permutation sampling
+#' Permutation sampling
 #'
 #' @description
 #' A permutation sample is the same size as the original data set and is made
