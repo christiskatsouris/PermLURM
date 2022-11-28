@@ -46,7 +46,13 @@ library("PermLURM")
 
 ```
 
-## Notes:
+## Univariate Bootstrap Unit Root Tests
+
+
+
+
+
+## Remarks:
 
 1. This R package employs the novel IVX-P estimator proposed in the literature recently and aims to investigate the performance of the specific resampling method such as the permutation-based approach for robust statistical inference purposes in comparison to conventional method as well as the bootstrap-based approach. 
 
