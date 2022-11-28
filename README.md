@@ -158,6 +158,12 @@ $\textbf{[23]}$  Elliott, G., Rothenberg, T.J., and Stock, J.H. (1996). Efficien
 
 $\textbf{[24]}$ Politis, D. N., & Romano, J. P. (1994). "The stationary bootstrap". Journal of the American Statistical association, 89(428), 1303-1313.
 
+### Further useful permutation-based methodologies from the recent literature
+
+- Kim, I., Neykov, M., Balakrishnan, S., & Wasserman, L. (2021). Local permutation tests for conditional independence. arXiv preprint arXiv:2112.11666. 
+
+- Zhang, Q., Lahiri, S. N., & Nordman, D. J. (2022). On optimal block resampling for Gaussian-subordinated long-range dependent processes. arXiv preprint arXiv:2208.01713.
+
 
 # Code of Coduct
 
