@@ -184,6 +184,3 @@ Notice that the academic research presented here is considered to be as open acc
  
 $\textbf{Raghu Raj Bahadur}$ (30 April 1924 – 7 June 1997) was an Indian statistician considered by peers to be "one of the architects of the modern theory of mathematical statistics". He received his doctorate from the University of North Carolina under Herbert Robbins in 1950 after which he joined University of Chicago. He worked as a research statistician at the Indian Statistical Institute in Calcutta from 1956 to 1961. Bahadur spent the remainder of his academic career in the University of Chicago. He published numerous papers and is best known for the concepts of "Bahadur efficiency" and the Bahadur–Ghosh–Kiefer representation (with J. K. Ghosh and Jack Kiefer). Bahadur also framed the Anderson–Bahadur algorithm[9] along with Theodore Wilbur Anderson which is used in statistics and engineering for solving binary classification problems when the underlying data have multivariate normal distributions with different covariance matrices (Source: Wikipedia).  
 
-# How to Cite a Website
-
-See: https://www.mendeley.com/guides/web-citation-guide/
