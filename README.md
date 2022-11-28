@@ -54,7 +54,7 @@ $$y_t = \beta_n y_{t-1} + u_t, \ \ \ t =  1,..., n .$$
 
 where
 
-$$ \beta_n = \left( 1 + \frac{ c }{ n^{\alpha} } \right), \ \ \alpha = 1 \ \text{or} \ \alpha \in (0,1) \ \ \text{and} \ \ c \in \mathbb{R}.$$
+$$ \beta_n = \left( 1 + \frac{ c }{ n^{\lambda} } \right), \ \ \lambda = 1 \ \text{or} \ \lambda \in (0,1) \ \ \text{and} \ \ c \in \mathbb{R}.$$
 
 ```R
 
@@ -67,11 +67,11 @@ $$y_t = \beta_n x_{t-1} + u_t, \ \ \ t =  1,..., n .$$
 
 such that 
 
-$$ x_t = \rho_n x_{t-1} + v_t \ \ \ \text{and} \ \ \ \rho_n = \left( 1 + \frac{ c }{ n^{\alpha} } \right),$$
+$$ x_t = \rho_n x_{t-1} + v_t \ \ \ \text{and} \ \ \ \rho_n = \left( 1 + \frac{ c }{ n^{\lambda} } \right),$$
 
 where 
 
-$$\ \ \alpha = 1 \ \text{or} \ \alpha \in (0,1) \ \ \text{and} \ \ c \in \mathbb{R}.$$
+$$\ \ \lambda = 1 \ \text{or} \ \lambda \in (0,1) \ \ \text{and} \ \ c \in \mathbb{R}.$$
 
 ```R
 
