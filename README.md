@@ -50,10 +50,12 @@ library("PermLURM")
 
 Consider the possibly nonstationary autoregressive time series regression model 
 
-$$y_t = \beta_n y_{t-1} + u_t, \ \ \ t = \left\{ 1,..., n \right\}.$$
+$$y_t = \beta_n y_{t-1} + u_t, \ \ \ t =  1,..., n .$$
+
+```R
 
 
-
+```
 
 ## Remarks:
 
