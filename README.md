@@ -63,6 +63,13 @@ $$ \beta_n = \left( 1 + \frac{ c }{ n^{\alpha} } \right), \ \ \alpha = 1 \ \text
 
 ## Permutation-Based Inference in Nonstationary Predictive Regressions
 
+$$y_t = \beta_n x_{t-1} + u_t, \ \ \ t =  1,..., n .$$
+
+such that 
+
+$$ x_t = \rho_n x_{t-1} + v_t, \ \ \rho_n = \left( 1 + \frac{ c }{ n^{\alpha} } \right), \ \ \alpha = 1 \ \text{or} \ \alpha \in (0,1) \ \ \text{and} \ \ c \in \mathbb{R}.$$
+
+
 ```R
 
 
