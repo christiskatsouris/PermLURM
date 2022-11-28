@@ -46,7 +46,7 @@ library("PermLURM")
 
 ```
 
-## Univariate Permutation-Based Unit Root Tests
+## Univariate Permutation-Based Unit Root Testing
 
 Consider the possibly nonstationary autoregressive time series regression  
 
@@ -55,6 +55,13 @@ $$y_t = \beta_n y_{t-1} + u_t, \ \ \ t =  1,..., n .$$
 where
 
 $$ \beta_n = \left( 1 + \frac{ c }{ n^{\alpha} } \right), \ \ \alpha = 1 \ \text{or} \ \alpha \in (0,1) \ \ \text{and} \ \ c \in \mathbb{R}.$$
+
+```R
+
+
+```
+
+## Permutation-Based Inference in Nonstationary Predictive Regressions
 
 ```R
 
