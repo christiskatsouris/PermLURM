@@ -157,12 +157,15 @@ $\textbf{[24]}$ Politis, D. N., & Romano, J. P. (1994). "The stationary bootstra
 
 ### Further useful permutation-based methodologies from the recent literature
 
+- DiCiccio, C. J., & Romano, J. P. (2017). Robust permutation tests for correlation and regression coefficients. Journal of the American Statistical Association, 112(519), 1211-1220.
+
 - Hemerik, J., Thoresen, M., & Finos, L. (2021). Permutation testing in high-dimensional linear models: an empirical investigation. Journal of Statistical Computation and Simulation, 91(5), 897-914.
 
 - Kim, I., Neykov, M., Balakrishnan, S., & Wasserman, L. (2021). Local permutation tests for conditional independence. arXiv preprint arXiv:2112.11666. 
 
-- Zhang, Q., Lahiri, S. N., & Nordman, D. J. (2022). On optimal block resampling for Gaussian-subordinated long-range dependent processes. arXiv preprint arXiv:2208.01713.
+- Romano, J. P., & Tirlea, M. A. (2022). Permutation testing for dependence in time series. Journal of Time Series Analysis, 43(5), 781-807.
 
+- Zhang, Q., Lahiri, S. N., & Nordman, D. J. (2022). On optimal block resampling for Gaussian-subordinated long-range dependent processes. arXiv preprint arXiv:2208.01713.
 
 # Code of Coduct
 
