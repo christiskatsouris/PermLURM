@@ -157,6 +157,8 @@ $\textbf{[24]}$ Politis, D. N., & Romano, J. P. (1994). "The stationary bootstra
 
 ### Further useful permutation-based methodologies from the recent literature
 
+- Hemerik, J., Thoresen, M., & Finos, L. (2021). Permutation testing in high-dimensional linear models: an empirical investigation. Journal of Statistical Computation and Simulation, 91(5), 897-914.
+
 - Kim, I., Neykov, M., Balakrishnan, S., & Wasserman, L. (2021). Local permutation tests for conditional independence. arXiv preprint arXiv:2112.11666. 
 
 - Zhang, Q., Lahiri, S. N., & Nordman, D. J. (2022). On optimal block resampling for Gaussian-subordinated long-range dependent processes. arXiv preprint arXiv:2208.01713.
