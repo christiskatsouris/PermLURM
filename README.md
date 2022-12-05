@@ -165,6 +165,8 @@ $\textbf{[24]}$ Politis, D. N., & Romano, J. P. (1994). "The stationary bootstra
 
 - Romano, J. P., & Tirlea, M. A. (2022). Permutation testing for dependence in time series. Journal of Time Series Analysis, 43(5), 781-807.
 
+- Kim, I., Balakrishnan, S., & Wasserman, L. (2022). Minimax optimality of permutation tests. The Annals of Statistics, 50(1), 225-251.
+
 - Zhang, Q., Lahiri, S. N., & Nordman, D. J. (2022). On optimal block resampling for Gaussian-subordinated long-range dependent processes. arXiv preprint arXiv:2208.01713.
 
 # Code of Coduct
