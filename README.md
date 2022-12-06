@@ -159,6 +159,8 @@ $\textbf{[24]}$ Politis, D. N., & Romano, J. P. (1994). "The stationary bootstra
 
 ### Further useful permutation-based methodologies from the recent literature
 
+- Hoeffding, W. (1952). The large-sample power of tests based on permutations of observations. The Annals of Mathematical Statistics, 169-192.
+
 - DiCiccio, C. J., & Romano, J. P. (2017). Robust permutation tests for correlation and regression coefficients. Journal of the American Statistical Association, 112(519), 1211-1220.
 
 - Hemerik, J., Thoresen, M., & Finos, L. (2021). Permutation testing in high-dimensional linear models: an empirical investigation. Journal of Statistical Computation and Simulation, 91(5), 897-914.
