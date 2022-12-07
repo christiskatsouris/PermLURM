@@ -157,7 +157,7 @@ $\textbf{[23]}$  Elliott, G., Rothenberg, T.J., and Stock, J.H. (1996). Efficien
 
 $\textbf{[24]}$ Politis, D. N., & Romano, J. P. (1994). "The stationary bootstrap". Journal of the American Statistical association, 89(428), 1303-1313.
 
-### Further useful permutation-based methodologies from the recent literature
+### Further useful permutation-based methodologies 
 
 - Hoeffding, W. (1952). The large-sample power of tests based on permutations of observations. The Annals of Mathematical Statistics, 169-192.
 
